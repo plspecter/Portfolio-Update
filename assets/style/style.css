@@ -1,0 +1,53 @@
+#container {
+    background-color: white;
+    width: 1050px;
+    height: 900px;
+    margin: auto;
+    left: auto;
+    right: auto;
+}
+
+.jumbotron {
+    height: 150px;
+    width: 720px;
+    background-image: url(/Users/perrispecter/Desktop/PennBootcamp/week9/Portfolio-Update/assets/images/whitebunny_glitch.jpg);
+    background-position: 0% 45%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    margin: auto;
+    left: auto;
+    right: auto;
+    top:200px;
+    padding-top: 20px;
+
+}
+
+body {
+    background-color: rgb(240, 240, 240);
+    height: 100%;
+}
+
+.name {
+    margin: auto;
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+}
+
+.navrow {
+    text-align: center;
+    font-size: 20px;
+    margin: 0 auto; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    background-color: white;
+    margin: auto;
+    left: auto;
+    right: auto;
+    width: 720px;
+    height: 500px;
+}
