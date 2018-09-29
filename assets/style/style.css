@@ -1,16 +1,57 @@
+.footer {
+    size: 100%;
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+#painting {
+    background-image: url(/Users/perrispecter/Desktop/PennBootcamp/week9/Portfolio-Update/assets/images/leavingg_small.jpg);
+    width: 550px;
+    height: 400px;
+    background-position: 0% 45%;
+background-size: 80%;
+background-repeat: no-repeat;
+}
+
 .picture {
     width: 200px;
     height: 100px;
     background-color: blue;
 }
 
+#container2 {
+    background-color: white;
+    width: 1050px;
+    height: 1200px;
+    margin: auto;
+    left: auto;
+    right: auto; 
+}
+
 #container {
     background-color: white;
+    text-align: left;
     width: 1050px;
     height: 900px;
     margin: auto;
     left: auto;
     right: auto;
+}
+
+.jumbotron2 {
+background-image: url(/Users/perrispecter/Desktop/PennBootcamp/week9/Portfolio-Update/assets/images/github-universe.jpg);
+color: white;
+margin: auto;
+left: auto;
+right: auto;
+height: 150px;
+width: 720px;
+zoom: 1;
+background-position: 0% 45%;
+background-size: cover;
+background-repeat: no-repeat;
+
 }
 
 .jumbotron {
