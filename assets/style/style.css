@@ -1,3 +1,9 @@
+.picture {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+}
+
 #container {
     background-color: white;
     width: 1050px;
