@@ -109,9 +109,67 @@ body {
     height: 500px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
     /* For mobile phones: */
+    #painting {
+        width: 450px;
+    }
+    p {
+        font-size: 10px;
+        position: relative;
+        bottom: 33px;
+    }
     [class*="col-"] {
         width: 100%;
     }
+    [class*="jumbotron"] {
+        width: 100%;
+    }
+    [class*="name"] {
+        width: 100%;
+        font-size: 40px;
+        position: relative;
+        bottom: 0px;
+        text-align: left;
+    }
+    [class*="card-text"] {
+        width: 100%;
+        font-size: 20px;
+        position: relative;
+        bottom: 0px;
+        text-align: left;
+    }
+    [class*="card"] {
+        width: 100%;
+        position: left;
+        /* position: relative;
+        right: 50px; */
+    }
+    [class*="card-img-top"] {
+        width: 100%;
+    
+    }
+    [class*="card-body"] {
+        width: 100%;
+
+    }
+    [class*="cards1"] {
+        width: 100%;
+
+    }
+
+    [class*="card-title"] {
+        width: 100%;
+    }
+
+    #container2 {
+        background-color: white;
+        width: 1050px;
+        height: 2200px;
+        margin: auto;
+        left: auto;
+        right: auto; 
+    }
+
+
 }
