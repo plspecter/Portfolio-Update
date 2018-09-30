@@ -9,7 +9,7 @@
 }
 
 #painting {
-    background-image: url(/Users/perrispecter/Desktop/PennBootcamp/week9/Portfolio-Update/assets/images/leavingg_small.jpg);
+    background-image: url("../images/leavingg_small.jpg");
     width: 550px;
     height: 400px;
     background-position: 0% 45%;
@@ -43,7 +43,7 @@ background-repeat: no-repeat;
 }
 
 .jumbotron2 {
-background-image: url(/Users/perrispecter/Desktop/PennBootcamp/week9/Portfolio-Update/assets/images/github-universe.jpg);
+background-image: url("../images/github-universe.jpg");
 color: white;
 margin: auto;
 left: auto;
@@ -60,7 +60,7 @@ background-repeat: no-repeat;
 .jumbotron {
     height: 150px;
     width: 720px;
-    background-image: url(/Users/perrispecter/Desktop/PennBootcamp/week9/Portfolio-Update/assets/images/whitebunny_glitch.jpg);
+    background-image: url("../images/whitebunny_glitch.jpg");
     background-position: 0% 45%;
     background-size: cover;
     background-repeat: no-repeat;
