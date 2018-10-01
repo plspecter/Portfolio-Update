@@ -49,6 +49,14 @@ background-repeat: no-repeat;
     right: auto;
 }
 
+.btn-lg {
+background: black;
+position: relative;
+left: 20px;
+top: 85px;
+}
+
+
 .jumbotron2 {
 background-image: url("../images/github-universe.jpg");
 color: white;
@@ -80,6 +88,10 @@ background-repeat: no-repeat;
 
 }
 
+.navlink:hover {
+color:black;
+}
+
 body {
     background-color: rgb(240, 240, 240);
     height: 100%;
@@ -90,6 +102,10 @@ body {
     text-align: center;
     font-size: 40px;
     font-family: monospace;
+}
+
+.navrow:hover {
+    color: black;
 }
 
 .navrow {
