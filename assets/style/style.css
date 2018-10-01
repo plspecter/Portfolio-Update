@@ -88,10 +88,6 @@ background-repeat: no-repeat;
 
 }
 
-.navlink:hover {
-color:black;
-}
-
 body {
     background-color: rgb(240, 240, 240);
     height: 100%;
@@ -104,9 +100,11 @@ body {
     font-family: monospace;
 }
 
-.navrow:hover {
-    color: black;
+/* change the color of the link when hovering */
+.navrow a:hover {
+    color:black !important;
 }
+
 
 .navrow {
     text-align: center;
